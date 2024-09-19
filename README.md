@@ -80,7 +80,7 @@ To run the provided Python code, ensure you have the following installed:<br/>
 - Jupyter Notebook for code execution and analysis
 ---
 ## Data Interpretation
-The data from the ECE board exam reveals a multifaceted view of performance variations based on academic tracks, regional demographics, and gender distribution. In the Microelectronics track, which is predominantly female [Figure 1.0](figure-1.0) (around 70% female students), the students demonstrate strong proficiency in Math, with many scoring above 87, and a tighter distribution of scores indicating consistent performance. However, this same group tends to underperform in the Electronics section, where their median score falls below 70, highlighting a disconnect between their theoretical math skills and practical application in electronics. In contrast, the Instrumentation track, mainly composed of male students (over 80% male), displays robust performance across exam sections, with no scores below 55 in the General Engineering and Applied Sciences (GEAS). However, this track struggles in Communication, where no students scored above 80.
+The data from the ECE board exam reveals a multifaceted view of performance variations based on academic tracks, regional demographics, and gender distribution. In the Microelectronics track, which is predominantly female [Figure 1.0](#figure-1.0) (around 70% female students), the students demonstrate strong proficiency in Math, with many scoring above 87, and a tighter distribution of scores indicating consistent performance. However, this same group tends to underperform in the Electronics section, where their median score falls below 70, highlighting a disconnect between their theoretical math skills and practical application in electronics. In contrast, the Instrumentation track, mainly composed of male students (over 80% male), displays robust performance across exam sections, with no scores below 55 in the General Engineering and Applied Sciences (GEAS). However, this track struggles in Communication, where no students scored above 80.
 
 The Communication track, with an equal gender distribution, shows a broader range of Math scores, with many students scoring below 70, and a slightly higher but still variable range of scores in Electronics, where the median hovers around 70. This indicates challenges in both technical and mathematical areas.
 
@@ -88,18 +88,22 @@ Regionally, students from the Visayas region (green points in the scatterplots) 
 
 The scatterplots reveal that there is no strong correlation between high performance in one section and another, especially in Math and Electronics, underscoring the idea that students tend to specialize in specific areas rather than achieving uniform excellence across the board. For example, several students who scored above 80 in Math did not surpass 60 in Electronics, particularly in the Microelectronics track.
 
- In summary, the data underscores significant performance trends and disparities across tracks, regions, and gender groups. The math-strong but electronics-weak Microelectronics students, and the consistent but communication-challenged Instrumentation students, suggest the need for more nuanced, possibly track-specific, educational strategies. The inclusion of gender demographics—such as the predominantly male Instrumentation track and the more balanced Communication track—adds another layer to these findings, offering a pathway for more tailored interventions to address specific weaknesses and improve overall performance in the ECE board exam.<br/>
- Figure 1.0 <br/>
+In summary, the data underscores significant performance trends and disparities across tracks, regions, and gender groups. The math-strong but electronics-weak Microelectronics students, and the consistent but communication-challenged Instrumentation students, suggest the need for more nuanced, possibly track-specific, educational strategies. The inclusion of gender demographics—such as the predominantly male Instrumentation track and the more balanced Communication track—adds another layer to these findings, offering a pathway for more tailored interventions to address specific weaknesses and improve overall performance in the ECE board exam.<br/>
+ 
+Figure 1.0 <br/>
 <img width="1105" alt="image" src="https://github.com/user-attachments/assets/7e3fafcf-8e49-4dee-bbed-95f525c6e335">
+
 Figure 1.1 <br/>
 <img width="996" alt="image" src="https://github.com/user-attachments/assets/b44c1c78-453c-498f-b400-eb2c6bb5af82">
+
 Figure 1.2 <br/>
 <img width="852" alt="image" src="https://github.com/user-attachments/assets/288c4492-034f-4cf7-b9ad-808260d39752">
+
 Figure 1.3 <br/>
 <img width="848" alt="image" src="https://github.com/user-attachments/assets/804d1100-8b54-42f6-bfe5-513415b92892">
+
 Figure 1.4 <br/>
 <img width="841" alt="image" src="https://github.com/user-attachments/assets/faeb8c23-e4de-42a5-b95c-612addc5cbc6">
-
 
 ---
 ## Conclusion 
