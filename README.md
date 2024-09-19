@@ -107,13 +107,15 @@ In summary, the data underscores significant performance trends and disparities 
 
 ---
 ## Conclusion 
-- This experiment demonstrates the power of data wrangling and visualization techniques in uncovering insights from a dataset. By using Pandas, we were able to filter data based on specific conditions and manipulate the DataFrame to focus on relevant information. Additionally, the visualizations helped identify patterns in student performance across tracks, subjects, and gender distributions. The ability to interpret these patterns is crucial in making data-driven decisions and conclusions.
+This experiment demonstrates the power of data wrangling and visualization techniques in uncovering insights from a dataset. By using Pandas, we were able to filter data based on specific conditions and manipulate the DataFrame to focus on relevant information. Additionally, the visualizations helped identify patterns in student performance across tracks, subjects, and gender distributions. The ability to interpret these patterns is crucial in making data-driven decisions and conclusions.
+  
 ---
 ## License<br/>
-- This project is licensed under The Unlicense. Please see [LICENSE](https://github.com/draemonsi/ECE2112-Experiment4/blob/main/LICENSE.txt) file for more details.
+This project is licensed under The Unlicense. Please see [LICENSE](https://github.com/draemonsi/ECE2112-Experiment4/blob/main/LICENSE.txt) file for more details.
+
 ---
 ## Author<br/>
-- Andrei Jorelle C. Simon<br/>
-  [GitHub Profile](https://github.com/draemonsi)
+Andrei Jorelle C. Simon<br/>
+[GitHub Profile](https://github.com/draemonsi)
 
 
