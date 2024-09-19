@@ -90,19 +90,19 @@ The scatterplots reveal that there is no strong correlation between high perform
 
 In summary, the data underscores significant performance trends and disparities across tracks, regions, and gender groups. The math-strong but electronics-weak Microelectronics students, and the consistent but communication-challenged Instrumentation students, suggest the need for more nuanced, possibly track-specific, educational strategies. The inclusion of gender demographics—such as the predominantly male Instrumentation track and the more balanced Communication track—adds another layer to these findings, offering a pathway for more tailored interventions to address specific weaknesses and improve overall performance in the ECE board exam.<br/>
  
-Figure 1.0 <br/>
+## Figure 1.0 
 <img width="1105" alt="image" src="https://github.com/user-attachments/assets/7e3fafcf-8e49-4dee-bbed-95f525c6e335">
 
-Figure 1.1 <br/>
+## Figure 1.1 
 <img width="996" alt="image" src="https://github.com/user-attachments/assets/b44c1c78-453c-498f-b400-eb2c6bb5af82">
 
-Figure 1.2 <br/>
+## Figure 1.2 
 <img width="852" alt="image" src="https://github.com/user-attachments/assets/288c4492-034f-4cf7-b9ad-808260d39752">
 
-Figure 1.3 <br/>
+## Figure 1.3 
 <img width="848" alt="image" src="https://github.com/user-attachments/assets/804d1100-8b54-42f6-bfe5-513415b92892">
 
-Figure 1.4 <br/>
+## Figure 1.4 
 <img width="841" alt="image" src="https://github.com/user-attachments/assets/faeb8c23-e4de-42a5-b95c-612addc5cbc6">
 
 ---
