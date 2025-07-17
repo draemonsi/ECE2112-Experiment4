@@ -59,7 +59,7 @@ To run the provided Python code, ensure you have the following installed:<br/>
 
 ### Installation steps:<br/>
 1. Clone the repository:<br/>
-```git clone https://github.com/draemonsi/ECE2112-Experiment4.git``` <br/>
+```git clone https://github.com/draemonsi/data-wrangling-and-visualization.git``` <br/>
 2. Install dependencies (if Pandas is not installed):<br/>
 ```pip install pandas matplotlib seaborn numpy```<br/>
 ---
